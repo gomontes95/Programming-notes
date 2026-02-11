@@ -1,0 +1,1 @@
+Un Container en Flutter es un widget versátil fundamental para diseñar la interfaz de usuario, actuando como un "contenedor" o caja para organizar, posicionar y estilizar elementos. Combina funcionalidades de pintura, posicionamiento y tamaño (como padding, márgenes, bordes y colores de fondo) para envolver un widget hijo (child).
