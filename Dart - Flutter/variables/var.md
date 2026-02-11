@@ -1,0 +1,1 @@
+Las variables en Dart se declaran con la palabra reservada [[var]], en dart el lenguaje infierete que tipo de variable segun el contenido que sea declarado en la variable.

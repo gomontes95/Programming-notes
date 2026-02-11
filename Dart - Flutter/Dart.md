@@ -1,0 +1,1 @@
+[Dart](https://dart.dev/) es un lenguaje de programación de código abierto, optimizado por Google, diseñado para el desarrollo rápido y multiplataforma de aplicaciones móviles (Android/iOS), web y escritorio. Se basa en la orientación a objetos, es fuertemente tipado y utiliza la compilación de código máquina nativo o JavaScript para un alto rendimiento.

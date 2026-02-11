@@ -1,0 +1,1 @@
+La palabra reservada void en Dart significa que la función o el método no retorna ningun valor. Actua como un tipo que signicia la ausencia del retorno de un valor, significando que la función realiza una acción pero no provee ninguna información (data) de regreso al ser llamada.

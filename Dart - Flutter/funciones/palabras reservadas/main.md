@@ -1,0 +1,1 @@
+Es el nombre predefinido de la función en el más alto nivel que sirve como un punto de entrada al programa. Cuando corres un programa en Dart, el compilador y el ambiente de ejecution en tiempo revisan por esta función en especifico para empezar la ejecución.

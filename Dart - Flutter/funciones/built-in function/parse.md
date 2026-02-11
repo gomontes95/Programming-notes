@@ -1,0 +1,1 @@
+el parse permite tomar una información de un typo para poder convertirla en otro tipo
